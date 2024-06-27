@@ -1,0 +1,4 @@
+node_modules
+.DS_STORE
+src/config/database/database.sqlite3
+tests/fixtures/database.sqlite3

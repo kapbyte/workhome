@@ -1,0 +1,19 @@
+{
+  "include": [
+    "src/**/*.[tj]s?(x)"
+  ],
+  "reporter": [
+    "lcov",
+    "json",
+    "text",
+    "text-summary",
+    "clover"
+  ],
+  "all": false,
+  "check-coverage": false,
+  "cache": false,
+  "branches": 60,
+  "lines": 60,
+  "functions": 60,
+  "statements": 60
+}
